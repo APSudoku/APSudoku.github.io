@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1747007877|1424549813';
+const CACHE_VERSION = '1747012269|463456873';
 /** @type {string} */
 const CACHE_PREFIX = 'APSudoku-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
